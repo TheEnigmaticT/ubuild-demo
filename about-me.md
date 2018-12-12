@@ -56,6 +56,45 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
+  headline: Content that you'd like
+  content: 'Hi, there!You''re looking who has a deep knowledge of online and offline
+    marketing, can speak with authority and clarity to all levels of a company, and
+    for a leader who can identify and nurture talent. I''m looking for a new opportunity
+    to put my leadership and marketing skills to work after I help my current company
+    ship their tentpole product for 2016. It sounds like we could be great together.
+    Who am I?My resume or LinkedIn profile will tell you the details, but let me give
+    you the broad view: I''m a data-driven leader and marketer who''s primarily worked
+    as VP or head of marketing for tech companies for the last 8 years, running both
+    B2B and B2C marketing &amp; PR campaigns which have had direct, measurable impact
+    on the bottom line.  So why am I looking to leave?I''ve been living and working
+    in Poland for the last 5 years. My wife, who''s been very patient about this trip
+    abroad that was going to be 1 year, and then 2, and has now stretched on longer
+    than either of us thought, is increasingly insistent about moving somewhere she
+    can pursue her studies further, and I feel it''s only fair that I do so. There''s
+    a major product launch my company is going to kick off in July, and after then
+    I feel that I can leave in good conscience, with the company in a good position
+    to succeed in 2016 and 2017, and my wife will refrain from poisoning my soup.
+    Everyone wins!Why do I care about this opportunity?I''ve built and led teams ranging
+    from 3 to 37, and managed budgets from $1,000 a month to over a million a year.
+    I''ve got enough experience and vision to start taking on senior roles in more
+    audacious capacities, and there are very few companies where I can work with the
+    best in the profession, continue to learn, and help influence a company''s trajectory.
+    As someone who''s extremely familiar with all kinds of online and offline marketing,
+    I believe that this is a fantastic role for me to move to, and I''d love to be
+    a part of it.Why should you care about me?When''s the last time you had a leader
+    bring your whole office to their feet because he showed them clearly how important
+    they are to making the company succeed (<a href="https://www.dropbox.com/s/y7vyslzjig5yjuf/Kontakt.mp4?dl=0"
+    title="https://www.dropbox.com/s/y7vyslzjig5yjuf/Kontakt.mp4?dl=0">https://www.dropbox.com/s/y7vyslzjig5yjuf/Kontakt.mp4?dl=0</a>)?
+    When is the last time a senior leader broke out Tableau, spotted a worrying trend
+    in your financial data, and spent a week brainstorming with your technical and
+    leadership teams to fix it in one month instead of 6? How often have you had a
+    senior leader who built an entire company''s processes from scratch around OKRs
+    and Kanban, from marketing to sales to R&amp;D? I''ve done all of these things;
+    I am a clear communicator, a strong leader, and a powerful speaker. If you''re
+    looking for someone who can lead an international team and coach them to deliver
+    fantastic marketing and events, I believe I''m that guy.I''d love to talk further
+    with you about this opportunity, what I can do for you, and answer any questions
+    you may have. Drop me a note and let''s schedule a call. :)'
 - template: 3-column-text
   block: three-column-1
 - template: detail-content
