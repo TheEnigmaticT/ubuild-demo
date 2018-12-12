@@ -95,6 +95,8 @@ page_sections:
     fantastic marketing and events, I believe I''m that guy.I''d love to talk further
     with you about this opportunity, what I can do for you, and answer any questions
     you may have. Drop me a note and let''s schedule a call. :)'
+  media:
+    image: "/uploads/2018/12/12/Realtor_3.png"
 - template: 3-column-text
   block: three-column-1
 - template: detail-content
