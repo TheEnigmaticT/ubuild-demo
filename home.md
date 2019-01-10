@@ -28,6 +28,11 @@ page_sections:
     enabled: true
 - template: detail-content
   block: text-1
+  headline: I "mustache" you a question
+  content: '<p>What''s the problem that challenges your business? What could your
+    busines do if you boosted your ROI and decrease your cost per acquisition? There''s
+    an answer to those problems, and I can help you find it. Here are the kind of
+    things I specialize in:  <img src="/uploads/2019/01/10/ChiefMustacheOfficer_Logo.png"></p>'
 - template: 3-column-text
   block: three-column-1
 - template: 4-column-footer
