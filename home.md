@@ -17,6 +17,15 @@ page_sections:
     link: "/contact"
 - template: hero-banner-w-image
   block: hero-2
+  background_image: "/uploads/2019/01/10/CMOPic.png"
+  headline: Hi, there!
+  content: 'I''m Trevor, the one and only Chief Mustache Officer. I do marketing,
+    sales, leadership, strategy, growth hacking, design, and everything else you''d
+    expect from a CMO. I just use more mustache than most. '
+  cta:
+    url: mailto:hi@chiefmustacheofficer.com
+    button_text: Let's talk
+    enabled: true
 - template: detail-content
   block: text-1
 - template: 3-column-text
