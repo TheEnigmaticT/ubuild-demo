@@ -62,6 +62,9 @@ page_sections:
       you do or it soon becomes more of a drag than a mission. When teams are lead
       with purpose and get to have fun, that's when they perform better than you'd
       imagine.
+- template: simple-footer
+  block: footer-1
+  content: 'Past Teams I''ve Worked With:'
 - template: 4-column-footer
   block: footer-2
 - template: 4-column-footer
