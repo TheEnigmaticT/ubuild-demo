@@ -35,6 +35,20 @@ page_sections:
     things I specialize in:  <img src="/uploads/2019/01/10/ChiefMustacheOfficer_Logo.png"></p>'
 - template: 3-column-text
   block: three-column-1
+  col_1:
+    headline: Branding
+    content: 'Branding is a lot more than a logo and a color scheme. It''s the fundamentals
+      of who you sell to, why you''re in business, and how you''re going to win.  '
+  col_2:
+    headline: Growth Hacking
+    content: 'I''ve been doing what''s now called "Growth Hacking" for nearly 15 years.
+      I used to just call it "scientific marketing": the idea of testing your marketing
+      constantly.  '
+  col_3:
+    headline: C-level strategy
+    content: 'When you need to answer thorny questions like "why is ARPU falling?"
+      you need someone who can look at the data and ask where the company is going
+      off the rails.  '
 - template: 4-column-footer
   block: footer-2
 - template: 4-column-footer
