@@ -49,6 +49,19 @@ page_sections:
     content: 'When you need to answer thorny questions like "why is ARPU falling?"
       you need someone who can look at the data and ask where the company is going
       off the rails.  '
+- template: 2-column-text
+  block: two-column-1
+  col_1:
+    headline: Leadership
+    content: 'A leader is a servant to his or her employees; they should learn and
+      develop and take risks under his direction. I have hired and trained high-performing
+      teams of international marketers at every company I''ve worked at.  '
+  col_2:
+    headline: Fun
+    content: Work hard, of course, but you need to bring joy and fun to everything
+      you do or it soon becomes more of a drag than a mission. When teams are lead
+      with purpose and get to have fun, that's when they perform better than you'd
+      imagine.
 - template: 4-column-footer
   block: footer-2
 - template: 4-column-footer
